@@ -1,0 +1,5 @@
+STREAMLIT
+https://menyelesaikanpermasalahaninstitusipendidikan.streamlit.app/
+
+TABLEAU
+https://public.tableau.com/shared/2NGS3QC4G?:display_count=n&:origin=viz_share_link
