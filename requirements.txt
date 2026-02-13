@@ -1,8 +1,8 @@
+streamlit
+altair<5
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 joblib
-streamlit
-imbalanced-learn
